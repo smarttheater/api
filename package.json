@@ -9,13 +9,13 @@
     }
   ],
   "dependencies": {
-    "@cinerino/sdk": "3.6.0",
+    "@cinerino/sdk": "3.15.1",
     "@motionpicture/express-middleware": "^0.1.1",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "debug": "^3.2.7",
     "express": "^4.16.2",
-    "express-validator": "^6.10.0",
+    "express-validator": "^6.12.1",
     "helmet": "^3.9.0",
     "http-status": "^1.5.0",
     "ioredis": "^3.2.2",
@@ -72,5 +72,5 @@
     "version": "git add -A",
     "postversion": "git push origin --tags"
   },
-  "version": "1.12.2"
+  "version": "1.13.0"
 }

@@ -18,6 +18,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ### Security
 
+## v1.13.0 - 2021-08-01
+
+### Changed
+
+- update @cinerino/sdk
+- 一般オファーカテゴリーをNormalとNormalOfferの両方に対応
+- 車椅子オファーカテゴリーをWheelchairとWheelchairOfferの両方に対応
+
 ## v1.12.2 - 2021-06-24
 
 ### Changed
